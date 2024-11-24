@@ -17,7 +17,7 @@ The data details the health facilities in Kaduna state with the LGAs they've bee
 
 - Igabi LGA has the highest population in Kaduna State
 
-![Local Image](LGA population.png)
+![Local Image](main/LGA population.png)
 
 - **91%** of the health facilities in Kaduna are Operational.
 - **76%** of the health facilities in Kaduna are Registered and Licensed.
