@@ -13,11 +13,11 @@ The data details the health facilities in Kaduna state with the LGAs they've bee
 #### General Observations:
 - Establishment of health facilities have seen a gradual increase in Kaduna State since 1970 as shown below
 
-![HHH](health facilities established over time.png)
+![](health%20facilities%20established%20over%20time.png)
 
 - Igabi LGA has the highest population in Kaduna State
 
-![[LGA population.png]]
+![](LGA%20population.png)
 
 - **91%** of the health facilities in Kaduna are Operational.
 - **76%** of the health facilities in Kaduna are Registered and Licensed.
@@ -25,16 +25,16 @@ The data details the health facilities in Kaduna state with the LGAs they've bee
 
 #### Operation Status:
 
-![[operation status over time.png]]
+![](operation%20status%20over%20time.png)
 
 - Chikun LGA has the most health facilities in the state according to the data, it and Kaduna North LGA have the most health facilities that are operational
 - Igabi LGA also has the most fully constructed health facilities that are non operational.
 
-![[Total Number of Facilities 1.png]]
+![](Total%20Number%20of%20Facilities.png)
 
-![[Number Operational Facilities'.png]]
+![](Number%20Operational%20Facilities'.png)
 
-![[LGAs with facilities pending registration.png]]
+![](LGAs%20with%20facilities%20pending%20registration.png)
 
 - LGAs with all health facilities operational: Kachia, Sanga, Soba, Kaduna South, Kajuru, Ikara, Kaura, Kudan, Sabon Gari
 - LGAs with operations problems: Lere, Chikun, Igabi, Kaduna North, Giwa, Jema'a, Zangon Kataf, Zaria, Kagarko, Kubau, Birnin Gwari, Kauru, jaba, Makarfi
@@ -43,37 +43,37 @@ The data details the health facilities in Kaduna state with the LGAs they've bee
 #### Registration Status:
 
 
-![[Overall Registration Status.png]]
+![](Overall%20Registration%20Status.png)
 
 - Igabi LGA might have the most non operational facilities, but most of the facilities in Igabi are registered.
 
-![[Registered LGAs.png]]
+![](Registered%20LGAs.png)
 
 - Despite Lere LGA having one of the most health facilities operational in the state, it has the least registered health facilities, on the basis that registration is not applicable to  **91%** of the health facilities in the LGA.
 
-![[LGAs with not Applicable Registration Status.png]]
+![](LGAs%20with%20not%20Applicable%20Registration%20Status.png)
 
 - The registration status of some health facilities in the state are undefined/unknown, this is prominent mostly in Chikun, Zangon Kataf, and Kaduna North LGAs
 
-![[LGAs with unknown Registration Status.png]]
+![](LGAs%20with%20unknown%20Registration%20Status.png)
 
 - Jema'a LGA has the most health facilities with their registration still pending.
 
-![[Pending Registration LGAs.png]]
+![](Pending%20Registration%20LGAs.png)
 
 - Sanga, Kubau and Kagoro LGAs have health Facilities where their registration was suspended.
 
 #### Licensing Status:
 
-![[Overall License Status Counts.png]]
+![](Overall%20License%20Status%20Counts.png)
 
 - Igabi LGA has the most health facilities with a license which is still weird why most of them are  not operational.
 
-![[Licensed LGAs.png]]
+![](Licensed%20LGAs.png)
 
 - Chikun LGA has the most health facilities with unverified licensing, which might need to be checked given most of those facilities are operational.
 
-![[LGAs with unknown License Status.png]]
+![](LGAs%20with%20unknown%20License%20Status.png)
 
 - Lere LGA has the most health facilities where licensing is not applicable.
 - Jema'a LGA has the most health facilities without a license.
