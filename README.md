@@ -32,7 +32,7 @@ The data details the health facilities in Kaduna state with the LGAs they've bee
 
 ![](visuals/Total%20Number%20of%20Facilities.png)
 
-![](visuals/Number%20Operational%20Facilities'.png)
+![](visuals/Number-Operational-Facilities.png)
 
 ![](visuals\LGAs-with-facilities-constructed-but-pending-operations.png)
 
