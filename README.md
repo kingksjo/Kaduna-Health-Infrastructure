@@ -34,7 +34,7 @@ The data details the health facilities in Kaduna state with the LGAs they've bee
 
 ![](visuals/Number-Operational-Facilities.png)
 
-![](visuals\LGAs-with-facilities-constructed-but-pending-operations.png)
+![](visuals/LGAs-with-facilities-constructed-but-pending-operations.png)
 
 - LGAs with all health facilities operational: Kachia, Sanga, Soba, Kaduna South, Kajuru, Ikara, Kaura, Kudan, Sabon Gari
 - LGAs with operations problems: Lere, Chikun, Igabi, Kaduna North, Giwa, Jema'a, Zangon Kataf, Zaria, Kagarko, Kubau, Birnin Gwari, Kauru, jaba, Makarfi
