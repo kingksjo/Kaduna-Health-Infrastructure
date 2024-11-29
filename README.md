@@ -115,7 +115,7 @@ There could also be incentive to encourage the establishment and registration of
 - Corrected the mixed up dates in the `start_date` column and converted it to datetime format. Also filled all missing dates with randomly generated dates in the year 2000. Did this because 2000 was already the most popular year.
 
 #### Constraints:
-- Location data of the facilities are inaccurate, will not be able to draw any actionable insights based on longitude and latitude, the were also a lot of missing values.
+- Location data of the facilities are inaccurate, will not be able to draw any actionable insights based on longitude and latitude, there were also a lot of missing values.
 - Data was last updated on Oct. 30th 2019, analysis was conducted in 2024.
 - Due to method of data cleaning, exact numbers might not be represented in this analysis, will focus on overall variables and percentages.
 
