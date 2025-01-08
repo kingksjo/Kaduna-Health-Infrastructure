@@ -105,7 +105,7 @@ There could also be incentive to encourage the establishment and registration of
 ## Tools Used
 - Python for data analysis
 - Pandas for data manipulation
-- Matplotlib/Seaborn for visualization
+- Matplotlib and Seaborn for visualization
 
 #### How I cleaned this data:
 - Dropped all duplicate rows
